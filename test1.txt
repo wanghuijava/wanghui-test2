@@ -3,3 +3,4 @@ test2
 test pull tip
 
 update on remote
+update on remote2

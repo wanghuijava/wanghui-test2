@@ -4,3 +4,4 @@ test pull tip
 
 update on remote
 update on remote2
+update on local
